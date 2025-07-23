@@ -1,0 +1,58 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    display: flex;
+    background-image: url("eggie.jpeg"); /* Corrected line */
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #010101;
+  }
+  
+  .container {
+    text-align: center;
+    background: white;
+    padding: 30px 40px;
+    background-image: url("clock1.jpeg"); /* Corrected line */
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #501905;
+    color: rgb(200, 176, 159);
+    transition: 0.3s ease;
+  }
+  
+  .buttons button:hover {
+    background: #b3ab23;
+  }
+  
+  #timer {
+    font-size: 5rem;
+    margin-top: 20px;
+    color: #000000;
+  }
+  
+  #status {
+    font-size: 1.2rem;
+    margin-top: 10px;
+    color:azure
+  }
+  
