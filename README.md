@@ -11,14 +11,21 @@ Hit the button and boom – countdown starts! When it's done, you'll hear a soun
 - CSS (made it a bit cute)
 - JavaScript (so it actually works)
 ## 🚀 Try it Locally
-Just download the files and open `index.html` in your browser. No rocket science.
+Just download the files and open `index.html` in your browser. 
+No rocket science.
 git clone https://github.com/your-username/egg-timer-boi.git
 or just download the ZIP. Whatever floats your boat 🛶.
+
 🙃 Why I Made This?
 Idk, I was hungry and learning JS. 😂
+
 📦 Things You Could Add (if you’re bored)
+
 Sound alerts 🔊
+
 Dark mode 🌙
+
 Actual boiling tips? 🤷‍♀️
+
 Don't forget to star the repo if you like eggs! ⭐
 Made with love & yolk 💛
